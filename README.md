@@ -30,35 +30,33 @@
 
 ### ⚡ Engineering Focus
 
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-        <h4 style="color: #7aa2f7;">💎 Specialized In</h4>
-        <ul style="line-height: 1.6;">
-          <li><b>Real-time Sync:</b> WebSocket, WebRTC 기반 고주파 데이터 처리</li>
-          <li><b>Rendering:</b> Flutter 내부 파이프라인 분석 및 프레임 최적화</li>
-          <li><b>Connectivity:</b> BLE, IoT 디바이스 연동 및 연결 안정성 설계</li>
-        </ul>
-      </td>
-      <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-        <h4 style="color: #7aa2f7;">🏗️ Architecture</h4>
-        <ul style="line-height: 1.6;">
-          <li><b>Cross-Platform:</b> Flutter, React Native 아키텍처 수립</li>
-          <li><b>State Mgmt:</b> BLoC, Provider, Riverpod, React-Query</li>
-          <li><b>Leadership:</b> 시니어 엔지니어링 및 개발팀 기술 리딩</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" style="vertical-align: top; border: none;">
+      <h4 style="color: #7aa2f7;">💎 Specialized In</h4>
+      <ul>
+        <li><b>Real-time Sync:</b> WebSocket, WebRTC 기반 고주파 데이터 처리</li>
+        <li><b>Rendering:</b> Flutter 내부 파이프라인 분석 및 프레임 최적화</li>
+        <li><b>Connectivity:</b> BLE, IoT 디바이스 연동 및 안정성 설계</li>
+      </ul>
+    </td>
+    <td width="50%" style="vertical-align: top; border: none;">
+      <h4 style="color: #7aa2f7;">🏗️ Architecture</h4>
+      <ul>
+        <li><b>Cross-Platform:</b> Flutter, React Native 아키텍처 수립</li>
+        <li><b>State Mgmt:</b> BLoC, Provider, Riverpod, React-Query</li>
+        <li><b>Leadership:</b> 시니어 엔지니어링 및 개발팀 기술 리딩</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠 Tech Stack Stack
+### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,nodejs,firebase,socketio,wasm,cpp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,nodejs,firebase,socketio,aws&theme=dark" />
 </div>
 
 ---
@@ -78,12 +76,12 @@
 
 ### 🧩 Key Engineering Projects
 
-| Project Scope | Tech Stack | 핵심 성과 |
+| Category | Project | Core Achievement |
 | :--- | :--- | :--- |
-| **Real-time Trading** | `Flutter`, `WS` | 고주파 데이터 업데이트 상황에서의 UI 스레드 점유율 최적화 |
-| **Ultrasound Streaming** | `Native`, `Stream` | Raw 데이터 수신-버퍼링-렌더링 구조 분리로 프레임 안정성 확보 |
-| **TV Controller** | `FCM`, `WS` | 모바일-TV 간 초저지연 제어 시스템 및 세션 동기화 설계 |
-| **Medical IoT** | `BLE`, `IoT` | 장비 연결 최적화 및 안정적인 데이터 패킷 수신 파이프라인 구축 |
+| **Finance** | Real-time Trading | 고주파 데이터 업데이트 상황에서의 UI 스레드 최적화 |
+| **Medical** | Ultrasound Streaming | Raw 데이터 수신-버퍼링-렌더링 구조 분리로 프레임 안정화 |
+| **IoT/TV** | Remote Controller | 모바일-TV 간 초저지연 제어 시스템 및 세션 동기화 설계 |
+| **IoT/BLE** | Medical Device | 장비 연결 최적화 및 안정적인 데이터 패킷 수신 파이프라인 구축 |
 
 ---
 
