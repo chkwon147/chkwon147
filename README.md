@@ -4,7 +4,7 @@
   <br/>
 
   <p align="center">
-    <strong>👋 안녕하세요, '노력하는 뚝딱이야' 권찬희입니다.</strong><br/>
+    <strong>👋 안녕하세요, '노력하는 뚝딱이' 권찬희입니다.</strong><br/>
     Frontend Engineer | Cross-Platform
   </p>
   
