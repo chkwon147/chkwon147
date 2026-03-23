@@ -1,95 +1,94 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=👋+Rio+(Chanhee+Kwon);Frontend+Engineer;Real-time+Systems+Expert" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=02569B&height=200&section=header&text=RIO%20:%20CHANHEE%20KWON&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Focus-Real--time%20Data%20Flow%20%26%20UI%20Sync-02569B?style=for-the-badge&logo=apacheflux&logoColor=white" alt="Focus" />
-</h3>
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Real-time+Systems+Architect;Cross-Platform+Expert" />
+
+  <p align="center">
+    <strong>"UI는 결과일 뿐, 본질은 데이터의 흐름이다"</strong><br/>
+    실시간 데이터 동기화와 고성능 렌더링 최적화에 집착하는 7년 차 엔지니어입니다.
+  </p>
+
+  <p align="center">
+    <a href="mailto:chkwon147@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://rio-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Blog-E11E1E?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  </p>
+</div>
+
+---
+
+## ⚡ Professional Focus
+
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: none;">
+      <h3>🚀 Performance & Real-time</h3>
+      <ul>
+        <li><b>Flutter Rendering Pipeline</b> 시뮬레이션 기반 최적화</li>
+        <li><b>WebSocket / WebRTC</b> 기반 초저지연 데이터 동기화</li>
+        <li><b>Medical Data Streaming</b> 파이프라인 설계</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <h3>🏗️ Architecture & Leadership</h3>
+      <ul>
+        <li><b>Cross-Platform</b> (Flutter, RN, Next.js) 아키텍처 설계</li>
+        <li><b>Senior Engineering</b> 프로젝트 일정 및 팀 리딩</li>
+        <li><b>IoT / BLE</b> 디바이스 연동 및 안정화 로직 구현</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Expert Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,nodejs,firebase,socketio,wasm,cpp,aws&theme=dark" />
+</div>
+
+---
+
+## 📈 Engineering Metrics
 
 <p align="center">
-  <b>7년의 경험</b>을 바탕으로, 복잡한 실시간 데이터 흐름을<br/>
-  가장 효율적인 UI 구조로 설계하고 성능 병목을 해결합니다.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&count_private=true" width="48%" />
 </p>
 
 <p align="center">
-  <a href="mailto:chkwon147@naver.com">
-    <img src="https://img.shields.io/badge/Contact-chkwon147@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://rio-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-Deep%20Dive-E11E1E?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=본인아이디&theme=tokyo-night&area=true&hide_border=true&custom_title=System+Stability+Pulse" width="100%" />
 </p>
 
 ---
 
-## 🛠️ Expert Tech Stack
+## 💎 Key Achievements
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,firebase,nodejs,c,cpp,wasm,socketio,rxjava,aws" />
-</p>
-<p align="center">
-  <i>"도구는 거들 뿐, 본질은 아키텍처입니다."</i>
-</p>
-
----
-
-## 🧠 Core Competencies (Deep Dive)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Performance-Flutter%20Rendering%20Pipeline-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimization-Memory%20%26%20Frame%20Stability-E74C3C?style=flat&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Reactive%20Programming%20(Rx)-82107E?style=flat&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Connectivity-BLE%20%26%20IoT%20Integration-0082FC?style=flat&logo=bluetooth&logoColor=white" />
-</p>
+| Project | Key Tech | Impact |
+| :--- | :--- | :--- |
+| **Real-time Trading** | `Flutter`, `WS` | 고주파 데이터 업데이트 상황에서의 UI 스레드 점유율 최적화 |
+| **Ultrasound Streaming** | `Native`, `Stream` | Raw 데이터 수신-버퍼링-렌더링 구조 분리로 프레임 안정화 |
+| **TV Controller** | `FCM`, `WS` | 모바일-TV 간 초저지연 제어 시스템 및 세션 관리 설계 |
+| **Medical App** | `BLE`, `IoT` | 장애 상황 대응 재연결 알고리즘 구현으로 안정성 99% 달성 |
 
 ---
 
-## 📊 Engineered Stats (Real-time Analytics)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkwon147&layout=compact&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chkwon147&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&count_private=true" alt="GitHub Stats" width="48%" />
-</p>
-
----
-
-## 📈 Activity Flow (Engineering Pulse)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chkwon147&theme=tokyo-night&area=true&hide_border=true&custom_title=Engineering%20Pulse%20(Contribution%20Graph)" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## 🧩 Key Engineered Projects
-
-### 📈 Real-time Trading App (성능의 한계 도전)
-- **TradingView + WebSocket:** 100ms 단위의 데이터 스트리밍을 버퍼링 없이 차트에 렌더링
-- **OrderBook Sync:** 고주파 데이터 업데이트 상황에서도 UI 스레드 점유율 최소화 설계
-
-### 🏥 Ultrasound Streaming App (메모리 최적화 극대화)
-- **Raw Data Streaming:** C++ 기반 네이티브 플러그인과 WasM을 활용한 데이터 전처리
-- **Buffering Optimization:** 버퍼링 구조 분리를 통해 60fps 안정화 및 메모리 누수 해결
-
-### 📺 TV Controller System (연결의 안정성 확보)
-- **Real-time Control:** FCM + MQTT 기반 초저지연 모바일 ↔ TV 제어 시스템 구현
-- **Stable Connection:** 디바이스 상태 스캔 및 재연결 알고리즘 개선으로 연결 안정성 99% 달성
-
----
-
-## 📚 Featured Deep Dives (from Tech Blog)
+## 📝 Latest Deep Dives
 
 <div align="center">
   <a href="https://rio-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/UI%20Rendering%20Pipeline-Deep%20Dive-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Blog 1" />
+    <img src="https://img.shields.io/badge/Flutter%20Rendering%20Pipeline-Analysis-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://rio-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/Flutter%20vs%20RN-Architecture%20Review-00D8FF?style=for-the-badge&logo=react&logoColor=white" alt="Blog 2" />
+    <img src="https://img.shields.io/badge/RN%20vs%20Flutter-Architecture-00D8FF?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=150&section=footer&text=UI%20is%20the%20result%2C%20data%20flow%20is%20the%20essence.&fontSize=20&fontColor=ffffff&fontAlign=80" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=120&section=footer&text=Keep%20Optimizing%2C%20Keep%20Syncing&fontSize=20&fontColor=ffffff&fontAlign=80"/>
+</div>
